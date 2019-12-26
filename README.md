@@ -1,3 +1,3 @@
-# angular-otcjht-fiimue
+# angular-sample App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-otcjht-fiimue)
+(https://stackblitz.com/edit/angular-otcjht-fiimue)
